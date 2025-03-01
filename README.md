@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving myself spiritually, mentally and financially<br>👯 I’m looking to collaborate on various web app projects<br>🌱 I’m currently learning data science<br>⚡ Fun fact is that I'm trying my best to be a good programmer while doing a 9-5 job
+🔭 I’m currently working on improving myself spiritually, mentally and financially<br> I’m looking to collaborate on various web app projects<br>🌱 I’m currently learning about cyber security<br>⚡ Fun fact is that I'm trying my best to be a good programmer while doing a 9-5 job
 
 
 ## 🌐 Socials:
