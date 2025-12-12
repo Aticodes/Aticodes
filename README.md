@@ -3,11 +3,13 @@
 
 ---
 
-### 💫 About Me  
-- 🔭 Currently improving myself **spiritually, mentally & financially**  
-- 🌱 Learning **Cybersecurity** (Google Cybersecurity + Fortinet)  
-- 👩‍💻 Open to collaborating on **Web Apps & Cyber Projects**  
-- ⚡ Fun fact: Balancing a **9–5 job** while leveling up as a programmer  
+### 💫 About Me   
+- 📘 Currently studying: Cybersecurity fundamentals, SOC concepts, and web security  
+- 🧱 Building: Small security projects + web apps to practice real skills  
+- 🎯 Goal: Become a Security Analyst with strong programming and networking knowledge  
+- 💼 While working: I manage a full-time job and learn every night  
+- ☕ Powered by: Discipline, curiosity, and a lot of coffee  
+
 
 ---
 
