@@ -51,18 +51,6 @@ Alongside a full-time job, I dedicate consistent time each evening to hands-on l
 
 ---
 
-## GitHub Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AtiCodes&theme=react&hide_border=true&show_icons=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtiCodes&theme=react&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiCodes&layout=compact&theme=react&hide_border=true" height="150"/>
-</p>
-
----
-
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=AtiCodes&icon=0&color=0" />
 </p>
